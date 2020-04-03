@@ -1,0 +1,11 @@
+{
+    "path" : 
+    [
+        {
+            "value" : "/user/bob/libs",
+            "method" : "append"
+        },
+        "/user/tom/libs",
+        "/user/sam/libs"
+    ]
+}
